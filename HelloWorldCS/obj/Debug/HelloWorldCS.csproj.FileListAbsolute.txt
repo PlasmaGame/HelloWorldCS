@@ -1,0 +1,7 @@
+D:\luker\source\repos\HelloWorldCS\HelloWorldCS\obj\Debug\HelloWorldCS.csprojAssemblyReference.cache
+D:\luker\source\repos\HelloWorldCS\HelloWorldCS\obj\Debug\HelloWorldCS.csproj.CoreCompileInputs.cache
+D:\luker\source\repos\HelloWorldCS\HelloWorldCS\bin\Debug\HelloWorldCS.exe.config
+D:\luker\source\repos\HelloWorldCS\HelloWorldCS\bin\Debug\HelloWorldCS.exe
+D:\luker\source\repos\HelloWorldCS\HelloWorldCS\bin\Debug\HelloWorldCS.pdb
+D:\luker\source\repos\HelloWorldCS\HelloWorldCS\obj\Debug\HelloWorldCS.exe
+D:\luker\source\repos\HelloWorldCS\HelloWorldCS\obj\Debug\HelloWorldCS.pdb
